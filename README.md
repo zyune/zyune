@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about python
 - 📫 How to reach me: yunethecoder@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Php is the best coding language
+- ⚡ Fun fact: Php is the best coding language.非常擅长写底层青年文学的coder。
 
