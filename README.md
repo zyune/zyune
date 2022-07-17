@@ -1,6 +1,4 @@
-<!-- START_SECTION:waka-->
 
-<!--END_SECTION:waka -->
 # Coder's Creed.
 ## Nothing is true; everything is permitted
 ![output](img/creed2.png)
@@ -29,6 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Php is the best coding language.非常擅长写底层青年文学的coder。
 
-
+<!-- START_SECTION:waka-->
+<!--END_SECTION:waka -->
 
 
