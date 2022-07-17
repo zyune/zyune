@@ -1,4 +1,5 @@
 <!-- START_SECTION:waka-->
+
 <!--END_SECTION:waka -->
 # Coder's Creed.
 ## Nothing is true; everything is permitted
@@ -31,5 +32,3 @@ Here are some ideas to get you started:
 
 
 
-<div align="center" style="display: flex; flex: row;"><img src="https://github-readme-stats.vercel.app/api?username=zyune&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=TippieCodes" align="center" /></div>  
-<br/>  
