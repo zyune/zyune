@@ -1,6 +1,6 @@
 # Coder's Creed.
 ## Nothing is true; everything is permitted
-![output](img/creed2.jpg)
+![output](img/creed2.png)
 <!-- <a href="#">
   <img align="middle" src="img/creed.jpg">
 </a>
