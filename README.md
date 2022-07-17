@@ -12,7 +12,8 @@
 ### Welcome to my repo, you are visitor
 ![VisitorCount](https://profile-counter.glitch.me/zyune/count.svg)
 
-**zyune/zyune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zyune/zyune** is a ✨ _special_ ✨ repository 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyune&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Php is the best coding language.非常擅长写底层青年文学的coder。
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyune&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
