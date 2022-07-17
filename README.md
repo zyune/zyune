@@ -8,7 +8,7 @@
 ## We work in the dark to serve the light
   <img align="right" src="https://github-readme-stats-git-master-dreace.vercel.app/api?hide_border=true&username=zyune&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true">
 </a>
-
+![Visitor Count](https://profile-counter.glitch.me/zyune/count.svg)
 
 **zyune/zyune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Php is the best coding language.非常擅长写底层青年文学的coder。
 
 
-![Visitor Count](https : //profile-counter.glitch.me/zyune/count.svg)
+
 
