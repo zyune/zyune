@@ -5,6 +5,7 @@
   <img align="middle" src="img/creed.jpg">
 </a>
 <a href="#"> -->
+## We work in the dark to serve the light
   <img align="right" src="https://github-readme-stats-git-master-dreace.vercel.app/api?hide_border=true&username=zyune&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true">
 </a>
 
