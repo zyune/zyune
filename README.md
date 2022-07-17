@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Php is the best coding language.非常擅长写底层青年文学的coder。
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyune&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
