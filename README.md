@@ -13,7 +13,7 @@
 ### Welcome to my repo, you are visitor
 ![VisitorCount](https://profile-counter.glitch.me/zyune/count.svg)
 
-**zyune/zyune** is a ✨ _special_ ✨ repository 
+### Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyune&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying at Northeastern University.
 - 🌱 I’m currently learning data science, leetcode solution, quantitative strategy on crypto
 - 👯 I’m looking to collaborate on some quantitative strategy on doge ,bit and eth
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about python
 - 📫 How to reach me: yunethecoder@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Php is the best coding language.非常擅长写底层青年文学的coder。
