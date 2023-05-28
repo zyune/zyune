@@ -71,17 +71,16 @@ Sunday                   42 commits          ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               0 secs              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   57.47 % 
-Astro                    0 secs              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   42.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-software_engineer        0 secs              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -101,7 +100,7 @@ JavaScript               5 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/zyune/zyune/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2023 01:04:22 UTC
+ Last Updated on 28/05/2023 01:08:51 UTC
 <!--END_SECTION:waka-->
 
 
