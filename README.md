@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 
 > 📦 510.2 kB Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 67 Public Repositories 
@@ -100,7 +98,7 @@ JavaScript               4 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/zyune/zyune/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2024 01:15:00 UTC
+ Last Updated on 14/10/2024 01:12:32 UTC
 <!--END_SECTION:waka-->
 
 
