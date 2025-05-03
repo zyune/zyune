@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Php is the best coding language.非常擅长写底层青年文学的coder。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-271%20hrs%2039%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.7%20million%20lines%20of%20code-blue)
@@ -35,8 +33,6 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data** 
 
 > 📦 510.3 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,7 +96,7 @@ JavaScript               4 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/zyune/zyune/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2025 01:19:21 UTC
+ Last Updated on 03/05/2025 01:18:09 UTC
 <!--END_SECTION:waka-->
 
 
